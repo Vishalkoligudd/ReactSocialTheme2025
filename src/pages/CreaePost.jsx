@@ -61,7 +61,7 @@ import {
         }}
       >
         <Typography variant="h5" align="center" gutterBottom sx={{ color: "#f0f0f0" }}>
-          Create Beautiful Post
+          Create a New Post
         </Typography>
   
         <form onSubmit={handleSubmit(onSubmit)} encType="multipart/form-data">
